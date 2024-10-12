@@ -1,12 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="👋" height="45" width="45"/>, I'm Yatharth Singh</h1>
-<h3 align="center">3yr Year BTech Computer Science specialization in DevOps Student at UPES.</h3>
+<h3 align="center">4yr Year BTech Computer Science specialization in DevOps Student at UPES.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yatharth-Singh1&label=Profile%20views&color=0e75b6&style=flat" alt="ayroid" /> </p>
 
 
 
-- 🌱 I’m currently learning *Java, Web Development, Data Structures & Algorithms.*
-- ❤️ Love creating *Small yet Interesting Projects!*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
